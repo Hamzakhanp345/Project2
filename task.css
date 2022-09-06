@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+/* <!--------First Section-------- */
+.MainSec{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #ffffff;
+}
+#logo{
+    height: 180px;
+    width: 360px;
+    margin-left: 140px;
+}
+.left{
+    width: 50%;
+}
+.store{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+#psize{
+    margin-right: 195px;
+}
+h1{
+   font-size: 32px;
+   margin-left: 80px;
+   letter-spacing: 3px;
+}
+p{
+    margin-left: 165px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.store img{
+    width: 250px;
+    padding: 0px 5px;
+}
+.right{
+    width:50%
+}
+.right img{
+    width: 600px;
+    height: 600px;
+}
+/* --Second Section Start-- */
+.sectiontwo{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+}
+.lefttwo{
+    width:50%;
+}
+.righttwo{
+    width:50%;
+}
+.lefttwo img{
+    width: 600px;
+    height: 600px;
+}
+#title{
+     padding-left:200px;
+     padding-bottom: 10px;
+     font-weight: bold;
+     font-size: 32px;
+     letter-spacing: 3px;
+}
+#para{
+    padding-right: 150px;
+    font-size: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+/* --------3rd section Css ------*/
+.thirdcontiner{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff; 
+}
+.leftt{
+    width:50%;
+}
+.rightt{
+    width:50%
+}
+.rightt img{
+    width:600px;
+    height: 600px;
+}
+.leftt h1{
+    margin-left: 255px;
+    letter-spacing: 3px;
+}
+.leftt P{
+    padding-top:10px;
+    margin-left: 85PX;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+/* -------------section 3 end here----- */
+.right2 img{
+    padding-bottom: 10px;
+    width: 700px;
+    height: 80px;
+}
+.footer h2{
+    padding-top: 20px;
+    text-align: center;
+}
+.footer p{
+    padding-top: 20px;
+    text-align: center;
+    padding-right: 152px;
+   margin-bottom: 20px;
+}
+.logo2{
+    text-align: center;
+}
+.footer{
+    background-color: #ffffff;
+}
